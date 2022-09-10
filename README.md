@@ -1,1 +1,1 @@
-# tekton-book-app
+# tekton-lab-app
